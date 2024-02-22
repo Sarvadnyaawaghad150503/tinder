@@ -8,13 +8,13 @@ Building this app with intention of learning flutter better .
 
 ## 📱 Screenshots
                                                   Splash Screen                                                                                                                                                    
-![WhatsApp Image 2024-02-23 at 00 32 04_502aa5df](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/72531b1f-f823-4a3c-98af-96eafda92fbf){width="100px" height="100px"}
+![WhatsApp Image 2024-02-23 at 00 32 04_502aa5df](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/72531b1f-f823-4a3c-98af-96eafda92fbf)
 
                                                  Login Page 
- |![WhatsApp Image 2024-02-23 at 00 28 31_4eb062d9](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/f2e6b2f4-403a-4da2-8f29-b1b0eb60ad98){:width="200px" height="200px"}
+ |![WhatsApp Image 2024-02-23 at 00 28 31_4eb062d9](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/f2e6b2f4-403a-4da2-8f29-b1b0eb60ad98){:height="20px" width="30px"}
  
                                                Profile Screen                                          
- ![WhatsApp Image 2024-02-23 at 00 28 33_30aaed8c](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/e7dd1756-afc9-4ef5-80be-7a7c0ab86815){:width="200px" height="200px"}
+ ![WhatsApp Image 2024-02-23 at 00 28 33_30aaed8c](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/e7dd1756-afc9-4ef5-80be-7a7c0ab86815)
  
 
 
