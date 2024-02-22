@@ -25,6 +25,8 @@ class ExploreScreen extends StatelessWidget {
   }
 }
 
+//Widget for Interest Selection 
+
 class InterestSelectionScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -101,6 +103,8 @@ class InterestSelectionScreen extends StatelessWidget {
           ),
         ],
       ),
+
+      //Navigation bar for navigating to other pages
       bottomNavigationBar: Container(
         padding: const EdgeInsets.only(top: 14),
         decoration: const BoxDecoration(
@@ -188,7 +192,7 @@ class InterestSelectionScreen extends StatelessWidget {
     );
   }
 }
-
+//baasic styling of interest pages
 class InterestTile extends StatelessWidget {
   final String image;
 

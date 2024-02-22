@@ -16,7 +16,7 @@ class TinderGold extends StatefulWidget {
   @override
   _TinderGoldState createState() => _TinderGoldState();
 }
-
+//Tinder Gold UI Page
 class _TinderGoldState extends State<TinderGold> {
   @override
   Widget build(BuildContext context) {
@@ -375,7 +375,7 @@ class _TinderGoldState extends State<TinderGold> {
   //     ],
   //   );
   // }
-
+//section of bottom navigation bar for navigation and routing
   Widget getBottomNavigationBar() {
     return Container(
       padding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),

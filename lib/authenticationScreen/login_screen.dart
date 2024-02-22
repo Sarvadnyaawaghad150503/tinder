@@ -21,6 +21,7 @@ class _LoginScreenState extends State<LoginScreen> {
   bool showProgressBar = false;
   final FirebaseFirestore _firestore = FirebaseFirestore.instance;
 
+//function for login with email and password
   void login() async {
     String email = emailTextEditingController.text.trim();
     String password = passwordTextEditingController.text.trim();
@@ -47,7 +48,7 @@ class _LoginScreenState extends State<LoginScreen> {
       }
     }
   }
-
+//function for google signin with firebase  
   _signInWithGoogle() async {
     final GoogleSignIn _googleSignIn = GoogleSignIn();
     final FirebaseFirestore _firestore = FirebaseFirestore.instance;
@@ -86,7 +87,7 @@ class _LoginScreenState extends State<LoginScreen> {
       log("some error occurred $e");
     }
   }
-
+//main code containing UI
   @override
   Widget build(BuildContext context) {
     return Scaffold(

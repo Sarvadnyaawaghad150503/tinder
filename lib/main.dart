@@ -9,6 +9,7 @@ import 'package:tinder/authenticationScreen/splash_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 
+//main page basic details it deviates person to Login page , go to loginscreen.dart 
 void main() async {
   // await Firebase.initializeApp(
   //   options: DefaultFirebaseOptions.currentPlatform,
@@ -31,7 +32,7 @@ class MyApp extends StatelessWidget {
         primaryColor: Colors.white,
         // secondaryHeaderColor: Color.fromRGBO(255, 88, 100, 1.0),
       ),
-      home: LoginScreen(),
+      home: LoginScreen(), 
     );
   }
 }

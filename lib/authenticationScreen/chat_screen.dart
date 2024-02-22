@@ -496,7 +496,7 @@ class _ChatPageState extends State<ChatPage> {
       bottomNavigationBar: getBottomNavigationBar(),
     );
   }
-
+//Chat Screen Home Page feature
   Widget getBody() {
     return Container(
       height: MediaQuery.of(context).size.height,
@@ -583,7 +583,7 @@ class _ChatPageState extends State<ChatPage> {
       ),
     );
   }
-
+//Section for printing specific page of user
   Widget _buildUserListItem(DocumentSnapshot document) {
     Map<String, dynamic> data = document.data()! as Map<String, dynamic>;
 

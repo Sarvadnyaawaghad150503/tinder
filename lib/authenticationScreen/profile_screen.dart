@@ -16,6 +16,7 @@ class AccountPage extends StatefulWidget {
   _AccountPageState createState() => _AccountPageState();
 }
 
+//function for logout and deviating to login page
 class _AccountPageState extends State<AccountPage> {
   final GoogleSignIn _googleSignIn = GoogleSignIn();
   final FirebaseAuth _auth = FirebaseAuth.instance;
@@ -32,6 +33,7 @@ class _AccountPageState extends State<AccountPage> {
     User? user = _auth.currentUser;
     return user;
   }
+  //function for bottom navigation bar for routing
 
   @override
   Widget build(BuildContext context) {

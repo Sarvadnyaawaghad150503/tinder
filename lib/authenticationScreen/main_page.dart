@@ -73,7 +73,7 @@ class _MainPageState extends State<MainPage> {
     });
     super.initState();
   }
-
+//main page UI screen with tinder cards feature
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -477,6 +477,8 @@ class _MainPageState extends State<MainPage> {
                 ],
               ),
             ),
+
+            //This ection is for navigation and routing to next pages
             Container(
                 padding: const EdgeInsets.only(top: 14),
                 decoration: const BoxDecoration(
