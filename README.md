@@ -10,24 +10,30 @@ Building this app with intention of learning flutter better .
 |                                                     Splash Screen                                                      |                                                   Login Page                                                   |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | ![WhatsApp Image 2024-02-23 at 00 32 04_502aa5df](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/72531b1f-f823-4a3c-98af-96eafda92fbf)
- | ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_login.png?raw=true) |
+ |![WhatsApp Image 2024-02-23 at 00 28 31_4eb062d9](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/f2e6b2f4-403a-4da2-8f29-b1b0eb60ad98)
+|
 
-|                                          Phone number verification                                           |                                                  Profile Screen                                                  |
-|:------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_otp.png?raw=true) | ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_profile.png?raw=true) |
+  |                                                  Profile Screen                                                  |
+|:----------------------------------------------------------------------------------------------------------------:|
+ | ![WhatsApp Image 2024-02-23 at 00 28 33_30aaed8c](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/e7dd1756-afc9-4ef5-80be-7a7c0ab86815)
+ |
 
 
 |                                                    Messages and Feeds                                                     |                                                    In person chat                                                     |
 |:-------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_messagesandfeeds.png?raw=true) | ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_InChatScreen.png?raw=true) |
+|![WhatsApp Image 2024-02-23 at 00 28 32_702fa03f](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/846d8fd5-5664-4f62-b6e3-e0b57ca52e31)
+| ![WhatsApp Image 2024-02-23 at 00 28 33_44e4d2b5](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/7e9ca1fe-078a-4381-9c83-adb4c7871554)
+|
 
-|                                              Tinder Right Swipe                                               |                                               Tinder Left Swipe                                               |
-|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_nope.png?raw=true) | ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_like.png?raw=true) |
+|                                              Tinder Home Page                                                 |                                  
+|:-------------------------------------------------------------------------------------------------------------:|
+| ![WhatsApp Image 2024-02-23 at 00 28 31_30884260](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/07c96426-9cc4-4a0c-b99a-3561f8063a95)
+ | 
 
- Matchings     |
+ Explore Page     |
 :-------------------------:|
-![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_main.png)
+![WhatsApp Image 2024-02-23 at 00 28 32_9b312b72](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/6c6630da-de62-4536-946e-1248c26f6298)
+
 
 
 ## 📚 Technical Details
@@ -46,7 +52,7 @@ More functionality is welcomed .
 I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
 
 ## 🙋 Created and Maintained by. 
-[Abhishek Kumar](https://github.com/iamabhishek229313)
+[Sarvadnya Awaghad](https://github.com/Sarvadnyaawaghad150503)
 
 ## © License 
 ```
