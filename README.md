@@ -8,13 +8,13 @@ Building this app with intention of learning flutter better .
 
 ## 📱 Screenshots
                                                   Splash Screen                                                                                                                                                    
-![WhatsApp Image 2024-02-23 at 00 32 04_502aa5df](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/72531b1f-f823-4a3c-98af-96eafda92fbf)
+![WhatsApp Image 2024-02-23 at 00 32 04_502aa5df](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/72531b1f-f823-4a3c-98af-96eafda92fbf){:width="200px" height="200px"}
 
                                                  Login Page 
- |![WhatsApp Image 2024-02-23 at 00 28 31_4eb062d9](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/f2e6b2f4-403a-4da2-8f29-b1b0eb60ad98)
+ |![WhatsApp Image 2024-02-23 at 00 28 31_4eb062d9](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/f2e6b2f4-403a-4da2-8f29-b1b0eb60ad98){:width="200px" height="200px"}
  
                                                Profile Screen                                          
- ![WhatsApp Image 2024-02-23 at 00 28 33_30aaed8c](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/e7dd1756-afc9-4ef5-80be-7a7c0ab86815)
+ ![WhatsApp Image 2024-02-23 at 00 28 33_30aaed8c](https://github.com/Sarvadnyaawaghad150503/tinder/assets/111975266/e7dd1756-afc9-4ef5-80be-7a7c0ab86815){:width="200px" height="200px"}
  
 
 
@@ -75,18 +75,18 @@ samples, guidance on mobile development, and a full API reference.
 
 # STEPS FOR FLUTTER INSTALLATION ON DESKTOP SETUP
 
-STEP 1 : git clone 
-STEP 2 : OPEN ANDROID EMULATOR AND CODE IN ANDROID STUDIO OR VS CODE
-STEP 3 : RUN   flutter pub get
-step 4 : setup Firebase on Firebase Console
-Step 5 : Set Up Authentication and Firestor Databse in it
-Step 6 : set up firebase cli  
-Step 7 : flutter run
+STEP 1 : git clone  <br>
+STEP 2 : OPEN ANDROID EMULATOR AND CODE IN ANDROID STUDIO OR VS CODE <br>
+STEP 3 : RUN   flutter pub get  <br>
+step 4 : setup Firebase on Firebase Console  <br>
+Step 5 : Set Up Authentication and Firestor Databse in it  <br>
+Step 6 : set up firebase cli   <br>
+Step 7 : flutter run  <br>
 
-#CONGRATULATIONS YOU TINDER APP IS SET UP SUCCESSFULLY
+# CONGRATULATIONS YOU TINDER APP IS SET UP SUCCESSFULLY
 
-References:
+# References:
 https://firebase.google.com/docs/build
 https://docs.flutter.dev/
 
-#Thank You, Upvote if you Like it .
+# Thank You, Upvote if you Like it .
